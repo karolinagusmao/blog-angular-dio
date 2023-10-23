@@ -1,6 +1,6 @@
 # estudo_dio_blog_angular
 Estudo DIO Blog Angular
-<br>Luis Antonio Freitas<br>
+
 
 # AngularBlog
 
